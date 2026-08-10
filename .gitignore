@@ -1,0 +1,15 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.autosave
+
+# Trained model files
+*.mat
+
+# Dataset
+train/
+validation/
+
+# System files
+.DS_Store
+Thumbs.db
